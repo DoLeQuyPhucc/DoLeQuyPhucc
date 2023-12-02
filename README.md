@@ -8,6 +8,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ![image](https://github.com/ak4ishuich1/ak4ishuich1/assets/144317368/4c63fdc4-cb86-479f-bfdb-ff2b304b4e81) Here is my Certifications, Honors & Awards
+### ![image](https://github.com/ak4ishuich1/ak4ishuich1/assets/144317368/130a6a12-969c-4a02-8d62-f995be1e7cb0) Here is my Certifications, Honors & Awards
 https://github.com/ak4ishuich1/certifications-honors-awards
 
