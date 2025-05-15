@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Do Le Quy Phuc<br>Email: phucdlq@gmail.com<br>Software Engineer | Front-end Dev 🇻🇳
+Name: Do Le Quy Phuc<br>Email: phucdlq@gmail.com<br>LinkedIn: https://www.linkedin.com/in/dolequyphuc/<br>Software Engineer | Front-end Dev 🇻🇳
 
 
 ## 🌐 Socials:
